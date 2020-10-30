@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quizar</string>
+    <string name="series">Series</string>
+    <string name="characters">Characters</string>
+    <string name="series_question">Which series is this?</string>
+    <string name="character_question">Who is this?</string>
+    <string name="congrads">Congratulations!</string>
+    <string name="points">You got %1$s points out of %2$s!</string>
+    <string name="noquestionsless">There is no previous question.</string>
+</resources>
